@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Crush Genesis!!",
+  "base_artist": "susumu.",
+  "createdAt": "2026-03-05T07:58:52.692080Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crush Genesis!!",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_Crush_Genesis!!_susumu..txt"
+    }
+  ]
+}
